@@ -19,3 +19,5 @@ console.log(primeNumber(d2));
 console.log(primeNumber(d3));
 
 module.exports = primeNumber;
+
+//วันฉาย ลุงเนิ่ง 660610793

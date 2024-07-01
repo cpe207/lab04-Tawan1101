@@ -17,3 +17,6 @@ console.log(typeChecker(a2, b2));
 console.log(typeChecker(a3, b3));
 
 module.exports = typeChecker;
+
+
+//วันฉาย ลุงเนิ่ง 660610793
